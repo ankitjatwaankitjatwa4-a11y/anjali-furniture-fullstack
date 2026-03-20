@@ -75,7 +75,7 @@ git push -u origin main
    PORT=5000
    MONGO_URI=mongodb+srv://...your uri...
    JWT_SECRET=some_random_long_string_here
-   WHATSAPP_NUMBER=918386076109
+   WHATSAPP_NUMBER=918386020815
    ADMIN_USERNAME=admin
    ADMIN_PASSWORD=anjali2024
    NODE_ENV=production
