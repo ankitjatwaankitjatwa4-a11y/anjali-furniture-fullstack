@@ -142,7 +142,7 @@ Expected: `{ "success": true, "products": [...] }`
 ### Test admin login:
 ```
 POST https://anjali-furniture-api.onrender.com/api/admin/login
-Body: { "username": "admin", "password": "anjali2024" }
+Body: { "username": "bbbbbbb", "password": "bbbbbbbb" }
 ```
 Expected: `{ "success": true, "token": "eyJ..." }`
 
